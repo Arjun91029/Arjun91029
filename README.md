@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I am web developer<br>
+🌱 I’m currently learning Data Analytics
 
 
 ## 🌐 Socials:
